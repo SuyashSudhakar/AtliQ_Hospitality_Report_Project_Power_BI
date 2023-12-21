@@ -9,30 +9,28 @@ This project aims to explore the AtliQ Grands Hospitality data to understand KPI
 The major aim of thie project is to gain insight into a hospitality data to analyze key metrics and KPIs which are important in the given domain, using custom made DAX Measures.
 
 # Key Metrics / KPIs
-Revenue -	To get the total revenue realized <br/>
-Total Bookings - To get the total number of bookings happened
-Total Capacity - To get the total capacity of rooms present in hotels
-Total Succesful Bookings - To get the total succesful bookings happened for all hotels
-Occupancy % - Total successful bookings happened to the 
-total rooms available(capacity)
-Average Rating - Average ratings given by the customers
-Total cancelled bookings - "Cancelled" bookings out of all Total bookings happened
-Cancellation % - Calculate the cancellaton percentage.
-Total Checked Out - Successful 'Checked out' bookings out of all Total bookings happened
-Total No Show Bookings - "No Show" bookings out of all Total bookings happened 
-No Show rate % - Calculate the No Show percentage.
-Booking % by Platform	- Percentage contribution of each booking platform for bookings in hotels.
-Booking % by Room class - Percentage contribution of each room class
-over total rooms booked.
-ADR - Calculate the ADR(Average Daily rate)(It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period)
-Realisation % - Calculate the realisation percentage(the succesful "checked out" percentage over all bookings happened.
-RevPAR(Revenue Per Available Room) - Calculate the revenue generated per available room, whether or not they are occupied.
-DBRN(Daily Booked Room Nights) - On average how many rooms are booked for a day considering a time period
-DSRN(Daily Sellable Room Nights) - On average how many rooms are ready to sell for a day considering a time period
-DURN(Daily Utilized Room Nights) - On average how many rooms are succesfully utilized by customers for a day considering a time period
-Revenue WoW change % - Revenue change percentage week over week.
-Occupancy WoW change % - Occupancy change percentage week over week.
-ADR WoW change % - ADR change percentage week over week.
-Revpar WoW change %	- RevPar change percentage week over week.
-Realisation WoW change % - Realisation change percentage week over week.
-DSRN WoW change %	- DSRN change percentage week over week.
+**Revenue** -	To get the total revenue realized <br/>
+**Total Bookings** - To get the total number of bookings happened<br/>
+**Total Capacity** - To get the total capacity of rooms present in hotels<br/>
+**Total Succesful Bookings** - To get the total succesful bookings happened for all hotels<br/>
+**Occupancy %** - Total successful bookings happened to the total rooms available(capacity)<br/>
+**Average Rating** - Average ratings given by the customers<br/>
+**Total Cancelled Bookings** - "Cancelled" bookings out of all Total bookings happened<br/>
+**Cancellation %** - Calculate the cancellaton percentage<br/>
+**Total Checked Out** - Successful 'Checked out' bookings out of all Total bookings happened<br/>
+**Total No Show Bookings** - "No Show" bookings out of all Total bookings happened<br/> 
+**No Show rate %** - Calculate the No Show percentage<br/>
+**Booking % by Platform**	- Percentage contribution of each booking platform for bookings in hotels<br/>
+**Booking % by Room Class** - Percentage contribution of each room classover total rooms booked<br/>
+**ADR(Average Daily Rate)** - Ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period<br/>
+**Realisation %** - Succesful "checked out" percentage over all bookings happened<br/>
+**RevPAR(Revenue per Available Room)** - Calculate the revenue generated per available room, whether or not they are occupied<br/>
+**DBRN(Daily Booked Room Nights)** - On average how many rooms are booked for a day considering a time period<br/>
+**DSRN(Daily Sellable Room Nights)** - On average how many rooms are ready to sell for a day considering a time period<br/>
+**DURN(Daily Utilized Room Nights)** - On average how many rooms are succesfully utilized by customers for a day considering a time period<br/>
+**Revenue WoW change %** - Revenue change percentage week over week<br/>
+**Occupancy WoW change %** - Occupancy change percentage week over week<br/>
+**ADR WoW change %** - ADR change percentage week over week<br/>
+**Revpar WoW change %**	- RevPar change percentage week over week<br/>
+**Realisation WoW change %** - Realisation change percentage week over week<br/>
+**DSRN WoW change %**	- DSRN change percentage week over week
