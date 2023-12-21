@@ -9,7 +9,7 @@ This project aims to explore the AtliQ Grands Hospitality data to understand KPI
 The major aim of thie project is to gain insight into a hospitality data to analyze key metrics and KPIs which are important in the given domain, using custom made DAX Measures.
 
 # Key Metrics / KPIs
-Revenue -	To get the total revenue realized
+Revenue -	To get the total revenue realized <br/>
 Total Bookings - To get the total number of bookings happened
 Total Capacity - To get the total capacity of rooms present in hotels
 Total Succesful Bookings - To get the total succesful bookings happened for all hotels
