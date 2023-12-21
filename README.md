@@ -2,7 +2,7 @@
 
 
 # About
-This project aims to explore the AtliQ Grands Hospitality data to understand KPIs such as Realisation, Occupancy%, RevPAR, ADR, etc., to analyse revenue patterns. The aims is to study how revenue generation strategies can be improved and optimized. The dataset was obtained from the CodeBasics Resume Project Challenge.
+This project aims to explore the AtliQ Grands Hospitality data using Power BI and Dax, to understand KPIs such as Realisation, Occupancy%, RevPAR, ADR, etc., to analyse revenue patterns. The aims is to study how revenue generation strategies can be improved and optimized. The dataset was obtained from the CodeBasics Resume Project Challenge.
 
 "AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data."
 
