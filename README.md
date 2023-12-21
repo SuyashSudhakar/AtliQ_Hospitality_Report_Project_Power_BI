@@ -6,7 +6,7 @@ This project aims to explore the AtliQ Grands Hospitality data to understand KPI
 "AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data."
 
 # Purpose of the Project
-The major aim of this project is to gain insight into a hospitality data using custom made DAX Measures, to analyze key metrics and KPIs that are important for the given domain.
+The major aim of this project is to gain insight into a hospitality data using interactive dashboard by generating custom made DAX Measures, to analyze key metrics and KPIs that are important for the given domain.
 
 # Key Metrics / KPIs
 **Revenue** -	To get the total revenue realized <br/>
