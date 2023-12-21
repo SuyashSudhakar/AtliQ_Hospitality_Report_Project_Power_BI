@@ -1,6 +1,5 @@
 # AtliQ_Hospitality_Project
-
-
+</br>
 # About
 This project aims to explore the AtliQ Grands Hospitality data to understand KPIs such as Realisation, Occupancy%, RevPAR, ADR, etc., to analyse revenue patterns. The aims is to study how revenue generation strategies can be improved and optimized. The dataset was obtained from the CodeBasics Resume Project Challenge.
 
